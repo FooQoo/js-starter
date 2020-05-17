@@ -1,4 +1,4 @@
-# js-starter
+# js-starter -Java Script から始めるプログラミング-
 
 プログラミング初心者のための Java Script
 
