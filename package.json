@@ -1,0 +1,14 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "for js begnner",
+  "main": "index.js",
+  "repository": "https://github.com/FooQoo/js-starter.git",
+  "author": "fooqoo",
+  "license": "MIT",
+  "scripts": {
+    "helloworld": "node src/helloworld.js",
+    "calc": "node src/calc.js",
+    "if": "node src/if.js"
+  }
+}
