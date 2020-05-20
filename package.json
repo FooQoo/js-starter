@@ -9,6 +9,7 @@
   "scripts": {
     "helloworld": "node src/helloworld.js",
     "calc": "node src/calc.js",
-    "if": "node src/if.js"
+    "if": "node src/if.js",
+    "for": "node src/for.js"
   }
 }
